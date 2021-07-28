@@ -14,12 +14,12 @@
 
 ### :link: Redes Sociais:
 
-<a href="https://www.instagram.com/feliipe_torres07" target="_blank">![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/bernardojachegou)</a>
+<a href="https://www.instagram.com/feliipe_torres07" target="_blank">![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/feliipe_torres07)</a>
 
 
 ### :envelope: Contato:
 
-<a href="https://api.whatsapp.com/send?phone=5579991101974&text=Olá!" target="_blank">![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5565981178109&text=Github!)</a>
+<a href="https://api.whatsapp.com/send?phone=5579991101974&text=Olá!" target="_blank">![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5579991101974&text=Github!)</a>
 
 #
 <a href="https://github.com/Felipe099">
