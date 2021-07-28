@@ -3,7 +3,7 @@
 <a href="https://www.w3schools.com/html/" target="_blank"> ![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)</a>
 <a href="https://www.w3schools.com/css/" target="_blank"> ![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)</a>
 <a href="https://www.javascript.com/" target="_blank"> ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)</a>
-<a href="https://python.org/" target="_blank"> ![Python](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)</a>
+<a href="https://python.org/" target="_blank"> ![Python](https://img.shields.io/badge/-Python-grey?style=flat&logo=python&logoColor=yellow)</a>
 <a href="https://www.php.net/" target="_blank"> ![PHP](https://img.shields.io/badge/-PHP-purple?style=flat&logo=php&logoColor=white)</a>
 
 
