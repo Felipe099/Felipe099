@@ -23,6 +23,6 @@
 
 #
 <a href="https://github.com/Felipe099">
- <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Felipe099show_icons=true&theme=dark&line_height=27" alt="Felipe Torres Github Stats"/>
+ <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Felipe099&show_icons=true&theme=dark&line_height=27" alt="Felipe Torres Github Stats"/>
 </a>
 
