@@ -5,6 +5,7 @@
 <a href="https://www.javascript.com/" target="_blank"> ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)</a>
 <a href="https://python.org/" target="_blank"> ![Python](https://img.shields.io/badge/-Python-grey?style=flat&logo=python&logoColor=yellow)</a>
 <a href="https://www.php.net/" target="_blank"> ![PHP](https://img.shields.io/badge/-PHP-purple?style=flat&logo=php&logoColor=white)</a>
+<a href="https://www.mysql.com/" target="_blank"> ![MySQL](https://img.shields.io/badge/-MySQL-orange?style=flat&logo=mysql&logoColor=white)</a>
 
 
 ### 📚 Ferramentas:
