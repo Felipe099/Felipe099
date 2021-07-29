@@ -24,8 +24,8 @@
 
 #
 <a href="https://github.com/Felipe099">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipe099&show_icons=true&theme=dark&line_height=27" alt="Felipe Torres Github Stats"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe099&layout=compact&langs_count=7&theme=dark"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipe099&show_icons=true&theme=highcontrast&line_height=27" alt="Felipe Torres Github Stats"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe099&layout=compact&langs_count=7&theme=highcontrast"/>
  
  ![Snake animation](https://github.com/Felipe099/Felipe099/blob/output/github-contribution-grid-snake.svg)
 </a>
