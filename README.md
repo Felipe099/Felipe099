@@ -6,6 +6,7 @@
 <a href="https://python.org/" target="_blank"> ![Python](https://img.shields.io/badge/-Python-grey?style=flat&logo=python&logoColor=yellow)</a>
 <a href="https://www.php.net/" target="_blank"> ![PHP](https://img.shields.io/badge/-PHP-purple?style=flat&logo=php&logoColor=white)</a>
 <a href="https://www.mysql.com/" target="_blank"> ![MySQL](https://img.shields.io/badge/-MySQL-orange?style=flat&logo=mysql&logoColor=white)</a>
+<img align="right" alt="Felipe099-yoda" height="150" width="200" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
 
 
 ### 📚 Ferramentas:
