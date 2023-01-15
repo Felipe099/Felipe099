@@ -20,9 +20,9 @@
 
 <a href="https://api.whatsapp.com/send?phone=5579991101974&text=Olá!" target="_blank">![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5579991101974&text=Github!)</a>
 
+
 #
 <a href="https://github.com/Felipe099">
- 
- ![Snake animation](https://github.com/Felipe099/Felipe099/blob/output/github-contribution-grid-snake.svg)
+ <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=Felipe099&show_icons=true&theme=dark&line_height=27" alt="Felipe Torres Github Stats"/>
 </a>
 
